@@ -1,0 +1,19 @@
+.note
+{
+  font-size: 15px;
+  color: black;
+}
+.div_speed
+{
+    float: left;
+}
+.div_speed_img
+{
+    width: 200px; 
+    border-radius: 100px;
+}
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+}
